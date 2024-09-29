@@ -29,3 +29,14 @@ Future Improvements
 Predictive Analytics: Incorporating machine learning to predict potential employee attrition.
 Automated Reporting: Email or scheduled reporting features.
 Enhanced Data Sources: Integration with external data sources such as HR systems for real-time updates.
+
+Conclusion - 
+Based on the analysis provided by the Employee Attrition Dashboard, we can draw the following key conclusions:
+
+Age Group: Employees between the ages of 26 - 35 are more likely to leave the company.
+Educational Background: Employees with educational backgrounds in Life Sciences and Medical fields show higher attrition rates compared to other disciplines.
+Salary Range: Employees earning a salary of above 15,000 tend to leave more frequently, suggesting that salary may not be the primary factor driving retention for this group.
+Tenure: The highest turnover occurs after 3 - 4 years of employment, indicating a potential retention issue during this critical period.
+Job Roles: The job roles most affected by attrition are Sales Executives and Research Scientists, highlighting specific areas where targeted retention strategies may be necessary.
+
+These findings suggest that attrition is concentrated in a specific demographic, particularly employees who are well-educated, relatively young, and experienced in their roles. Addressing the needs and concerns of this group—whether through enhanced career development opportunities, better work-life balance, or more tailored compensation—could significantly reduce employee turnover.
